@@ -19,7 +19,7 @@ help a service desk, and where must human judgement stay in the loop?*
 | **P2** | Urgent | Handle within 12 hours |
 | **P3** | Emergency, life-threatening | Respond immediately |
 
-P3 is the **highest** priority. The full prompt is in [`prompts/triage_prompt_v2.md`](prompts/triage_prompt_v4.md).
+P3 is the **highest** priority. The full prompt is in [`prompts/triage_prompt_v4.md`](prompts/triage_prompt_v4.md).
 
 ## What it returns
 
