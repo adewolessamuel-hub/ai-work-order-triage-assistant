@@ -1,0 +1,101 @@
+request_id,ai_priority,rationale,missing_info,needs_human_review
+WO-001,P1,"Minor drip, no damage reported.",none,false
+WO-002,P2,Large puddle and noise from hot water tank suggest possible tank/valve failure; could escalate to flooding.,"Is the water still leaking, and is the tank pressure/temperature normal?",true
+WO-003,P1,"Planned installation request, no risk.",none,false
+WO-004,P1,Broken swing chain is a play-equipment hazard but easy to contain by taking the swing out of service.,Has the swing been taped off?,true
+WO-005,P1,Running toilet wastes water but causes no damage.,none,false
+WO-006,P3,Sparking plus loss of power points to an electrical fault with fire risk.,Is the opener unplugged and the garage circuit off?,false
+WO-007,P2,"Unexplained 3 am alarm on a single zone needs investigation, but no fire found.","What triggered zone 4, and is the panel still showing a fault?",true
+WO-008,P2,Failed access control with doors propped open is a security gap.,none,false
+WO-009,P1,Planned electrical work with a month of lead time.,none,false
+WO-010,P1,"Sanitation nuisance, no immediate hazard.",none,false
+WO-011,P2,Fire panel fault left for two days could mean the system is impaired; compliance issue.,none,false
+WO-012,P1,Cosmetic.,none,false
+WO-013,P1,Comfort/energy issue only.,none,false
+WO-014,P1,Failed seals are an efficiency and appearance issue.,none,false
+WO-015,P3,"Warm, discoloured outlet with burning smell is an active fire hazard.",none,false
+WO-016,P1,Low-battery chirp; detector is still present.,none,false
+WO-017,P2,Half the lights out in a parking level creates a safety and security risk for staff.,none,false
+WO-018,P1,Cosmetic grounds maintenance.,none,false
+WO-019,P2,Loss of hot water affecting a toddler; essential service.,Is the whole building affected?,false
+WO-020,P2,"Rising server room temperature threatens tenant equipment shortly, but no safety risk to people.",none,true
+WO-021,P1,"Pest nuisance, shared with neighbour, no immediate harm.",none,false
+WO-022,P2,Loose handrail on stairs is a fall hazard.,none,false
+WO-023,P1,"Fence down, no immediate risk reported.",none,false
+WO-024,P1,Overload-type trip; breaker is doing its job.,none,false
+WO-025,P2,"Half the washroom unusable, staff disrupted.",none,false
+WO-026,P2,Residential building door not securing; security gap for all residents.,none,false
+WO-027,P2,Wasp nest where children play is an injury risk.,none,false
+WO-028,P1,"Noisy fan, minor moisture concern.",none,false
+WO-029,P1,Cosmetic damage.,none,false
+WO-030,P2,Gate cannot secure the parking overnight.,none,false
+WO-031,P1,"Irrigation timing fault, nuisance only.",none,false
+WO-032,P1,Convenience item.,none,false
+WO-033,P1,Cosmetic.,none,false
+WO-034,P1,Pest sighting outside the building; schedule control visit.,none,false
+WO-035,P1,Loose leg is a nuisance with a few days of lead time.,none,false
+WO-036,P1,"Slip nuisance, fixed by routine sweeping.",none,false
+WO-037,P1,"Ponding on roof, no leak reported yet.",Is there any interior leakage?,true
+WO-038,P1,"Likely moisture/mould staining from poor ventilation, not an acute hazard.",none,false
+WO-039,P2,Missing extinguisher is a fire code deficiency.,none,false
+WO-040,P1,"Tree trimming, no immediate damage.",none,false
+WO-041,P2,Lost fob is a security risk until it is deactivated.,none,false
+WO-042,P1,Noise only.,none,false
+WO-043,P2,Dark corridor beside a stairwell is a fall and security risk.,none,false
+WO-044,P1,Planned security upgrade.,none,false
+WO-045,P1,Cosmetic.,none,false
+WO-046,P1,Comfort control issue.,none,false
+WO-047,P1,"Cosmetic, explicitly not time-sensitive.",none,false
+WO-048,P1,"Wildlife in attic, no damage reported yet.",none,false
+WO-049,P1,Inconvenience for visitors.,none,false
+WO-050,P2,Removed smoke alarm leaves the hallway without detection.,none,false
+WO-051,P1,"Compliance paperwork item, extinguisher still present.",none,false
+WO-052,P1,Fixture annoyance.,none,false
+WO-053,P1,Minor repair.,none,false
+WO-054,P1,Routine maintenance.,none,false
+WO-055,P2,Active water ingress with soaked carpet will worsen with each rain.,none,false
+WO-056,P2,Loose balcony railing is a serious fall hazard.,none,true
+WO-057,P1,"Pest control visit needed, no immediate harm.",none,false
+WO-058,P1,Minor repair.,none,false
+WO-059,P1,Minor nuisance.,none,false
+WO-060,P1,"Minor leak, outdoors.",none,false
+WO-061,P2,Probable bed bugs spread between units and need prompt treatment.,Has a pest professional confirmed the cause?,true
+WO-062,P1,Surface defect; schedule repair.,none,false
+WO-063,P2,No heat in cold weather with an elderly occupant needs same-day attention.,none,true
+WO-064,P2,Unlit exit sign is a life-safety compliance deficiency.,none,false
+WO-065,P1,Partial loss of circuits; likely a tripped GFCI.,Has the GFCI been reset?,false
+WO-066,P1,Cosmetic.,none,false
+WO-067,P2,Defeated fire door compromises compartmentation.,none,false
+WO-068,P2,Roof covering lost; exposed to the next rain.,none,false
+WO-069,P2,Growing ceiling stain means an active roof leak.,none,false
+WO-070,P3,Water pouring into a light fixture is shock and fire risk and active flooding.,none,false
+WO-071,P1,Cosmetic envelope damage.,none,false
+WO-072,P1,Cosmetic.,none,false
+WO-073,P1,Draft and energy loss.,none,false
+WO-074,P3,"A CO alarm must be treated as real until proven otherwise, even if it stopped.","Any symptoms in occupants, and is the furnace running?",true
+WO-075,P2,Sprinkler drip could mean a failing head and damage to adjacent equipment.,none,true
+WO-076,P1,"Slow drain, minor.",none,false
+WO-077,P2,Injury already occurred and other boards may fail.,"Which boards are soft, and has the deck been cordoned off?",false
+WO-078,P3,Possible gas leak must be treated as an emergency until ruled out.,none,true
+WO-079,P1,"Comfort issue, though lasting several days.",none,false
+WO-080,P1,Possible mould behind fridge; needs inspection but no acute hazard.,Is there a leak source nearby?,true
+WO-081,P2,Possible sewer backup with odour is a sanitation hazard.,none,true
+WO-082,P1,"Overflowing gutter, nuisance.",none,false
+WO-083,P1,"Door still locks, only awkward.",none,true
+WO-084,P1,Minor lock issue.,none,false
+WO-085,P1,Trivial.,none,false
+WO-086,P1,"Debris removal, parking inconvenience.",none,false
+WO-087,P2,Time-bound access issue with a firm appointment tomorrow morning.,none,false
+WO-088,P1,Noise complaint only.,none,false
+WO-089,P2,Lockout at night with a baby; urgent but not life-threatening.,Is the baby with you and safe?,true
+WO-090,P2,Exposed wiring in a public lobby is a shock hazard.,none,true
+WO-091,P2,Trip hazard that has already nearly caused an injury.,none,false
+WO-092,P2,Cracking ceiling with falling plaster may indicate structural or moisture failure.,Is there water above?,true
+WO-093,P1,Noise only.,none,false
+WO-094,P1,Envelope gap; pest entry risk.,none,false
+WO-095,P1,Partial heating loss; comfort issue.,none,false
+WO-096,P1,Planned turnover work.,none,false
+WO-097,P1,"Pest issue, no immediate harm.",none,false
+WO-098,P2,Spreading stain suggests an active leak that will damage the ceiling.,What is the source above?,true
+WO-099,P1,Lighting nuisance.,none,false
+WO-100,P1,Stiff but working lock.,none,false

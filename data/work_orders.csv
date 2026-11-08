@@ -1,0 +1,101 @@
+request_id,submitted_at,property,property_type,location,trade,requester_role,channel,request_text
+WO-001,2026-10-05 19:39,Brookside Village,Residential,27 Willow Crescent,Plumbing,Resident,Phone,"Kitchen tap drips constantly, been like this about two weeks. Not urgent but annoying at night."
+WO-002,2026-10-06 07:30,Lakeshore Corporate Centre,Office,"Basement 1, mechanical room",Plumbing,Security guard,Email,Found a puddle about 2 m wide around the domestic hot water tank. Tank is making a knocking noise.
+WO-003,2026-10-06 18:17,Lakeshore Corporate Centre,Office,"Floor 2, Suite 215",Carpentry,Tenant,Phone,Please install a 3 m wall-mounted shelving unit in our storage room. We will supply the unit.
+WO-004,2026-10-07 10:36,Brookside Village,Residential,Brookside playground,Landscaping & Grounds,Resident,Phone,Chain on one of the swings is broken.
+WO-005,2026-10-07 10:43,Maple Hollow Estate,Residential,"Unit 8, Block B",Plumbing,Resident,Resident portal,Toilet runs on and off all night. Water bill went up last month.
+WO-006,2026-10-07 13:29,Brookside Village,Residential,19 Elm Street,Electrical,Resident,Email,I heard sparking when I pressed the garage door opener and now the garage has no power.
+WO-007,2026-10-08 03:39,Maple Hollow Estate,Residential,Block C,Fire & Life Safety,Resident,Walk-in,"Fire alarm sounded at 3 am. Residents silenced it, no fire seen. Panel says zone 4."
+WO-008,2026-10-08 12:00,Lakeshore Corporate Centre,Office,Main entrance,Locksmith & Access Control,Receptionist,Tenant portal,Badge reader at the main entrance isn't reading cards. People are propping the door open.
+WO-009,2026-10-08 13:07,Lakeshore Corporate Centre,Office,"Floor 3, Suite 305",Electrical,Tenant,Tenant portal,We need 4 extra outlets for new workstations. Move-in is Dec 1.
+WO-010,2026-10-09 15:41,Maple Hollow Estate,Residential,Block D garbage room,Pest Control,Resident,Email,Garbage room smells and there are flies everywhere.
+WO-011,2026-10-09 17:42,Lakeshore Corporate Centre,Office,Floor 5,Fire & Life Safety,Property coordinator,Phone,Fire alarm panel has shown a trouble light for two days.
+WO-012,2026-10-10 13:19,Lakeshore Corporate Centre,Office,"Stairwell A, floor 4",Painting & Drywall,Security guard,Email,Marker graffiti on the stairwell wall.
+WO-013,2026-10-10 14:53,Maple Hollow Estate,Residential,"Unit 15, Block C",Roofing & Envelope,Resident,Resident portal,Cold draft around the balcony door.
+WO-014,2026-10-10 16:06,Lakeshore Corporate Centre,Office,"Floor 9, Suite 900",Roofing & Envelope,Tenant,Email,Window seal has failed on 3 windows. Condensation between the panes.
+WO-015,2026-10-10 18:54,Brookside Village,Residential,33 Oakridge Avenue,Electrical,Resident,Resident portal,Burning smell from the living room outlet. The outlet is warm and has gone brown around the edges.
+WO-016,2026-10-10 20:31,Maple Hollow Estate,Residential,"Unit 21, Block D",Fire & Life Safety,Resident,Resident portal,Smoke detector chirps every minute. Probably the battery.
+WO-017,2026-10-11 20:01,Lakeshore Corporate Centre,Office,Parking level P2,Electrical,Security guard,Walk-in,About half of the lights on P2 are out. Evening staff don't feel safe walking to their cars.
+WO-018,2026-10-12 07:32,Brookside Village,Residential,17 Willow Crescent,Landscaping & Grounds,Resident,Resident portal,Lawn hasn't been cut in three weeks.
+WO-019,2026-10-12 09:22,Maple Hollow Estate,Residential,"Unit 3, Block A",Plumbing,Resident,Phone,No hot water since this morning. I have a toddler at home.
+WO-020,2026-10-12 15:37,Lakeshore Corporate Centre,Office,"Floor 7, server room",HVAC,Tenant IT lead,Email,Server room AC alarm shows 31C with the door closed. Our equipment will start shutting down soon.
+WO-021,2026-10-12 19:42,Maple Hollow Estate,Residential,"Unit 16, Block C",Pest Control,Resident,Walk-in,Seeing cockroaches in the kitchen at night. Several. Neighbour says they have them too.
+WO-022,2026-10-12 20:11,Maple Hollow Estate,Residential,"Block D, 2nd floor stairs",Carpentry,Resident,Phone,Stair handrail has pulled away from the wall a bit.
+WO-023,2026-10-13 09:22,Maple Hollow Estate,Residential,East boundary,Landscaping & Grounds,Resident,Email,A fence panel fell down along the east boundary after the wind.
+WO-024,2026-10-13 09:39,Maple Hollow Estate,Residential,"Unit 17, Block C",Electrical,Resident,Walk-in,Breaker keeps tripping when the microwave and kettle run together.
+WO-025,2026-10-13 11:10,Lakeshore Corporate Centre,Office,"Floor 4, women's washroom",Plumbing,Tenant admin,Email,Two of the four toilets are not flushing. Staff are going down to the 3rd floor and queueing.
+WO-026,2026-10-13 15:32,Maple Hollow Estate,Residential,Block A main door,Locksmith & Access Control,Resident,Phone,Door doesn't close fully so anyone can walk in. The magnetic lock isn't holding.
+WO-027,2026-10-13 19:44,Brookside Village,Residential,31 Aspen Court,Pest Control,Resident,Email,Wasp nest under the front porch roof. Kids play there.
+WO-028,2026-10-13 20:48,Maple Hollow Estate,Residential,"Unit 11, Block B",HVAC,Resident,Walk-in,Bathroom exhaust fan makes a grinding sound and doesn't pull steam out.
+WO-029,2026-10-14 08:21,Brookside Village,Residential,29 Willow Crescent,Painting & Drywall,Resident,Email,Fist-sized hole in the hallway drywall from a door handle.
+WO-030,2026-10-14 17:54,Lakeshore Corporate Centre,Office,Parking gate,Locksmith & Access Control,Security guard,Walk-in,Parking gate arm is stuck in the up position. It won't close overnight.
+WO-031,2026-10-15 08:37,Maple Hollow Estate,Residential,Block A garden,Landscaping & Grounds,Resident,Walk-in,Sprinkler comes on at 2 am and floods the path.
+WO-032,2026-10-15 08:44,Maple Hollow Estate,Residential,"Unit 5, Block A",Electrical,Resident,Resident portal,Doorbell does not work.
+WO-033,2026-10-16 10:34,Brookside Village,Residential,47 Beech Street,Painting & Drywall,Resident,Phone,Multiple nail pops in the living room ceiling drywall.
+WO-034,2026-10-16 10:44,Lakeshore Corporate Centre,Office,Loading dock,Pest Control,Dock supervisor,Email,Rats seen near the garbage bins at the loading dock.
+WO-035,2026-10-17 08:20,Lakeshore Corporate Centre,Office,"Floor 6, boardroom",Carpentry,Tenant admin,Tenant portal,Boardroom table leg is loose and the table wobbles. Client meeting on Thursday.
+WO-036,2026-10-17 11:34,Maple Hollow Estate,Residential,Courtyard walkways,Landscaping & Grounds,Resident,Email,Wet leaves are clogging the walkways and they are very slippery.
+WO-037,2026-10-17 11:36,Lakeshore Corporate Centre,Office,"Roof, near access hatch",Roofing & Envelope,Building operator,Tenant portal,Standing water on the roof near the hatch. Drain looks blocked.
+WO-038,2026-10-17 11:44,Brookside Village,Residential,4 Cherry Lane,Painting & Drywall,Resident,Phone,Paint is peeling on the bathroom ceiling above the shower and there are black spots.
+WO-039,2026-10-17 13:30,Maple Hollow Estate,Residential,Block B corridor,Fire & Life Safety,Resident,Phone,Fire extinguisher is missing from its cabinet in the corridor.
+WO-040,2026-10-17 17:58,Brookside Village,Residential,55 Cherry Lane,Landscaping & Grounds,Resident,Resident portal,Neighbour's tree branches are touching my roof.
+WO-041,2026-10-18 09:41,Maple Hollow Estate,Residential,"Unit 18, Block C",Locksmith & Access Control,Resident,Resident portal,Lost my fob for the building door. Please deactivate it and issue a new one.
+WO-042,2026-10-18 10:45,Brookside Village,Residential,52 Maple Grove,HVAC,Resident,Resident portal,Outdoor AC unit is making a loud rattling noise when it runs.
+WO-043,2026-10-18 12:48,Lakeshore Corporate Centre,Office,"Floor 2, corridor near Stairwell B",Electrical,Property coordinator,Email,Three light fixtures are out in the corridor beside the stairwell. It is dark at night.
+WO-044,2026-10-19 07:03,Lakeshore Corporate Centre,Office,"Floor 6, Suite 610",Locksmith & Access Control,Tenant,Tenant portal,Need the suite re-keyed after an employee left.
+WO-045,2026-10-19 09:26,Lakeshore Corporate Centre,Office,Main entrance planters,Landscaping & Grounds,Property coordinator,Tenant portal,Planters are dead. Please replace for fall.
+WO-046,2026-10-19 17:03,Lakeshore Corporate Centre,Office,"Floor 5, Suite 520",HVAC,Tenant,Phone,Thermostat screen is blank and we can't adjust the temperature.
+WO-047,2026-10-19 17:50,Lakeshore Corporate Centre,Office,"Floor 1, Suite 120",Painting & Drywall,Tenant,Tenant portal,Scuff marks on walls after a furniture move. Touch up whenever convenient.
+WO-048,2026-10-20 08:33,Brookside Village,Residential,44 Beech Street,Pest Control,Resident,Phone,Scratching noises in the attic at night. Might be a raccoon.
+WO-049,2026-10-21 08:48,Brookside Village,Residential,Visitor gate,Locksmith & Access Control,Resident,Email,Keypad code for the visitor gate isn't working for my guests.
+WO-050,2026-10-21 11:17,Maple Hollow Estate,Residential,"Unit 10, Block B",Fire & Life Safety,Resident,Walk-in,Hallway smoke alarm was removed during painting last week and never put back.
+WO-051,2026-10-22 07:11,Brookside Village,Residential,25 Pine Ridge,Fire & Life Safety,Resident,Phone,Fire extinguisher tag shows it expired in 2023.
+WO-052,2026-10-22 08:29,Maple Hollow Estate,Residential,"Unit 22, Block D",Plumbing,Resident,Phone,Shower head is loose and spraying sideways. Pressure is also low.
+WO-053,2026-10-22 09:07,Brookside Village,Residential,24 Pine Ridge,Carpentry,Resident,Walk-in,Kitchen cabinet door fell off its hinge.
+WO-054,2026-10-22 10:23,Brookside Village,Residential,15 Poplar Drive,HVAC,Resident,Phone,I think the furnace filter has not been changed in over a year. Can someone swap it?
+WO-055,2026-10-22 10:44,Maple Hollow Estate,Residential,"Unit 1, Block A",Roofing & Envelope,Resident,Walk-in,Water comes in around the window frame during heavy rain and soaks the carpet.
+WO-056,2026-10-22 12:00,Maple Hollow Estate,Residential,"Unit 13, Block C balcony",Carpentry,Resident,Walk-in,Balcony railing wobbles when leaned on. One post feels loose at the base.
+WO-057,2026-10-22 16:11,Lakeshore Corporate Centre,Office,"Floor 3, kitchenette",Pest Control,Tenant,Email,Found mouse droppings in the kitchenette cupboards.
+WO-058,2026-10-23 10:16,Maple Hollow Estate,Residential,"Unit 9, Block B",Carpentry,Resident,Resident portal,Closet sliding door came off its track.
+WO-059,2026-10-23 13:48,Brookside Village,Residential,10 Spruce Lane,Pest Control,Resident,Resident portal,"Ants in the kitchen every morning, trailing in from the window."
+WO-060,2026-10-23 14:12,Brookside Village,Residential,41 Cedar Court,Plumbing,Resident,Walk-in,Outdoor tap leaks at the base whenever a hose is connected.
+WO-061,2026-10-23 14:18,Maple Hollow Estate,Residential,"Unit 4, Block A",Pest Control,Resident,Email,Waking up with bites on my arms and I found small dark spots along the mattress seam.
+WO-062,2026-10-23 19:15,Lakeshore Corporate Centre,Office,"Visitor entrance, parking lot",Landscaping & Grounds,Tenant,Walk-in,Pothole about 30 cm wide near the visitor entrance.
+WO-063,2026-10-24 07:27,Maple Hollow Estate,Residential,"Unit 19, Block C",HVAC,Resident,Walk-in,Furnace will not start. Thermostat says heat is on but only cold air comes out. It is 2 degrees outside and my elderly mother lives with me.
+WO-064,2026-10-24 08:05,Lakeshore Corporate Centre,Office,"East stairwell, ground floor",Fire & Life Safety,Security guard,Walk-in,Exit sign above the east stairwell door is not lit.
+WO-065,2026-10-24 11:30,Brookside Village,Residential,6 Spruce Lane,Electrical,Resident,Resident portal,No power at the kitchen outlets only. Rest of the house is fine. I checked the breaker panel.
+WO-066,2026-10-24 13:10,Lakeshore Corporate Centre,Office,"Floor 1, reception",Carpentry,Receptionist,Tenant portal,Laminate is peeling at the edge of the reception desk.
+WO-067,2026-10-24 14:59,Lakeshore Corporate Centre,Office,"Floor 2, stairwell door",Fire & Life Safety,Security guard,Tenant portal,Stairwell fire door is propped open with a wedge. Smokers are doing it.
+WO-068,2026-10-24 17:50,Maple Hollow Estate,Residential,Block B roof,Roofing & Envelope,Groundskeeper,Walk-in,Several shingles blew off last night. Found them in the courtyard.
+WO-069,2026-10-25 08:13,Brookside Village,Residential,14 Hawthorn Way,Roofing & Envelope,Resident,Email,Water stain on the top floor bedroom ceiling after yesterday's rain. It is getting bigger.
+WO-070,2026-10-25 08:54,Maple Hollow Estate,Residential,"Unit 14, Block C",Plumbing,Resident,Resident portal,Water is coming through my ceiling from the unit above. Dripping fast into a bucket and the light fixture is filling with water. Please come NOW.
+WO-071,2026-10-25 18:44,Brookside Village,Residential,36 Poplar Drive,Roofing & Envelope,Resident,Phone,A siding panel is cracked beside the garage.
+WO-072,2026-10-26 11:33,Maple Hollow Estate,Residential,"Block C, 3rd floor corridor",Painting & Drywall,Resident,Phone,Paint is chipped beside the elevator.
+WO-073,2026-10-26 12:32,Lakeshore Corporate Centre,Office,Loading dock,Roofing & Envelope,Dock supervisor,Email,Weatherstripping on the loading dock door is torn and wind blows in.
+WO-074,2026-10-26 14:12,Brookside Village,Residential,18 Oakridge Avenue,Fire & Life Safety,Resident,Walk-in,CO detector went off briefly this morning near the furnace. It stopped on its own.
+WO-075,2026-10-26 19:18,Lakeshore Corporate Centre,Office,"Floor 6, room beside server closet",Fire & Life Safety,Tenant,Email,Sprinkler head is dripping slightly. One drip every few seconds.
+WO-076,2026-10-26 19:38,Lakeshore Corporate Centre,Office,"Floor 1, kitchenette",Plumbing,Tenant,Walk-in,Kitchenette sink is draining slowly. Probably coffee grounds.
+WO-077,2026-10-27 08:11,Brookside Village,Residential,12 Juniper Road,Carpentry,Resident,Phone,"A back deck board broke and my son's foot went through it. He's okay, just scraped. Other boards look soft too."
+WO-078,2026-10-27 16:18,Maple Hollow Estate,Residential,"Unit 6, Block A",HVAC,Resident,Email,Faint rotten egg smell near the furnace closet. Comes and goes.
+WO-079,2026-10-27 18:05,Lakeshore Corporate Centre,Office,"Floor 3, east open area",HVAC,Tenant,Walk-in,"East side is freezing, people are wearing coats. Been like this since Monday."
+WO-080,2026-10-27 18:39,Lakeshore Corporate Centre,Office,"Floor 4, pantry",Painting & Drywall,Tenant,Email,Dark patches on the wall behind the pantry fridge. Might be mould.
+WO-081,2026-10-28 08:44,Brookside Village,Residential,9 Birchwood Lane,Plumbing,Resident,Resident portal,Basement floor drain is gurgling and there is a bad sewage smell after the neighbour ran laundry.
+WO-082,2026-10-28 11:10,Brookside Village,Residential,22 Elm Street,Roofing & Envelope,Resident,Walk-in,Eavestrough overflows at the front corner and pours onto the walkway.
+WO-083,2026-10-28 14:50,Maple Hollow Estate,Residential,"Unit 2, Block A",Carpentry,Resident,Resident portal,Front door doesn't latch properly. I have to lift the handle to lock it.
+WO-084,2026-10-28 19:16,Brookside Village,Residential,20 Birch Lane,Locksmith & Access Control,Resident,Resident portal,Key broke off in the mailbox lock.
+WO-085,2026-10-29 07:48,Lakeshore Corporate Centre,Office,"Floor 10, Suite 1005",Pest Control,Tenant,Tenant portal,A few fruit flies around our office plants.
+WO-086,2026-10-29 07:57,Maple Hollow Estate,Residential,Visitor parking,Landscaping & Grounds,Groundskeeper,Resident portal,Large tree branch fell across the visitor parking and blocks four spots.
+WO-087,2026-10-29 10:02,Lakeshore Corporate Centre,Office,"Floor 1, telecom closet",Locksmith & Access Control,Tenant,Email,Lock on the telecom closet is jammed. Our ISP technician can't get in. Appointment is tomorrow at 9 am.
+WO-088,2026-10-29 20:45,Lakeshore Corporate Centre,Office,"Roof, RTU-3",HVAC,Building operator,Email,Rooftop unit 3 belt is squealing loudly. Tenants on floor 9 are complaining about noise.
+WO-089,2026-10-29 21:26,Brookside Village,Residential,7 Hawthorn Way,Locksmith & Access Control,Resident,Walk-in,Locked out with my keys inside. It's 9 pm and I have a baby.
+WO-090,2026-10-30 07:44,Lakeshore Corporate Centre,Office,"Floor 6, elevator lobby",Electrical,Cleaner,Walk-in,Outlet cover is cracked and the wires are visible behind it.
+WO-091,2026-10-30 12:23,Lakeshore Corporate Centre,Office,Front plaza,Landscaping & Grounds,Receptionist,Walk-in,Paving stone is lifted at the main entrance. A visitor almost fell today.
+WO-092,2026-10-31 13:13,Maple Hollow Estate,Residential,"Unit 7, Block A",Painting & Drywall,Resident,Phone,Bedroom ceiling has a crack about a metre long and bits of plaster are falling.
+WO-093,2026-10-31 17:43,Brookside Village,Residential,38 Aspen Court,Carpentry,Resident,Walk-in,Third and fifth stair steps squeak loudly.
+WO-094,2026-10-31 20:06,Brookside Village,Residential,3 Birch Lane,Roofing & Envelope,Resident,Resident portal,Gap in the soffit near the roof edge. Birds are going in and out.
+WO-095,2026-11-01 07:06,Brookside Village,Residential,8 Hawthorn Way,HVAC,Resident,Phone,Heat only works on the main floor. Upstairs bedrooms are cold.
+WO-096,2026-11-01 08:43,Maple Hollow Estate,Residential,"Unit 20, Block D",Painting & Drywall,Property manager,Walk-in,Whole unit needs repainting before the new tenant moves in on the 15th.
+WO-097,2026-11-01 08:52,Maple Hollow Estate,Residential,"Unit 12, Block B",Pest Control,Resident,Resident portal,Heard mice in the walls last week and caught one in the pantry.
+WO-098,2026-11-01 10:58,Lakeshore Corporate Centre,Office,"Floor 8, corridor",Painting & Drywall,Cleaner,Walk-in,Water stain is spreading on a ceiling tile near the washroom.
+WO-099,2026-11-01 12:52,Maple Hollow Estate,Residential,Block D lobby,Electrical,Resident,Email,Pot lights in the lobby are flickering and a few are buzzing.
+WO-100,2026-11-01 17:40,Maple Hollow Estate,Residential,"Unit 9, Block B",Locksmith & Access Control,Resident,Walk-in,"Deadbolt is stiff and hard to turn, but it still works."

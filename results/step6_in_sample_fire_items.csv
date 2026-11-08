@@ -1,0 +1,11 @@
+request_id,manual_revised,ai_v2,ai_v3,v2_match,v3_match
+WO-007,P2,P2,P2,True,True
+WO-011,P2,P2,P2,True,True
+WO-016,P2,P1,P2,False,True
+WO-039,P2,P1,P2,False,True
+WO-050,P3,P2,P3,False,True
+WO-051,P3,P1,P2,False,False
+WO-064,P1,P2,P2,False,False
+WO-067,P2,P2,P2,True,True
+WO-074,P3,P3,P3,True,True
+WO-075,P1,P2,P2,False,False

@@ -1,0 +1,101 @@
+request_id,property,trade,request_text,manual_original,manual_revised,ai_priority,match_original,match_revised,ai_rationale,ai_missing_info,ai_needs_human_review
+WO-001,Brookside Village,Plumbing,"Kitchen tap drips constantly, been like this about two weeks. Not urgent but annoying at night.",P1,P1,P1,True,True,"Minor drip, no damage reported.",none,false
+WO-002,Lakeshore Corporate Centre,Plumbing,Found a puddle about 2 m wide around the domestic hot water tank. Tank is making a knocking noise.,P1,P1,P2,False,False,Large puddle and noise from hot water tank suggest possible tank/valve failure; could escalate to flooding.,"Is the water still leaking, and is the tank pressure/temperature normal?",true
+WO-003,Lakeshore Corporate Centre,Carpentry,Please install a 3 m wall-mounted shelving unit in our storage room. We will supply the unit.,P1,P1,P1,True,True,"Planned installation request, no risk.",none,false
+WO-004,Brookside Village,Landscaping & Grounds,Chain on one of the swings is broken.,P1,P1,P1,True,True,Broken swing chain is a play-equipment hazard but easy to contain by taking the swing out of service.,Has the swing been taped off?,true
+WO-005,Maple Hollow Estate,Plumbing,Toilet runs on and off all night. Water bill went up last month.,P2,P2,P1,False,False,Running toilet wastes water but causes no damage.,none,false
+WO-006,Brookside Village,Electrical,I heard sparking when I pressed the garage door opener and now the garage has no power.,P2,P3,P3,False,True,Sparking plus loss of power points to an electrical fault with fire risk.,Is the opener unplugged and the garage circuit off?,false
+WO-007,Maple Hollow Estate,Fire & Life Safety,"Fire alarm sounded at 3 am. Residents silenced it, no fire seen. Panel says zone 4.",P2,P2,P2,True,True,"Unexplained 3 am alarm on a single zone needs investigation, but no fire found.","What triggered zone 4, and is the panel still showing a fault?",true
+WO-008,Lakeshore Corporate Centre,Locksmith & Access Control,Badge reader at the main entrance isn't reading cards. People are propping the door open.,P2,P2,P2,True,True,Failed access control with doors propped open is a security gap.,none,false
+WO-009,Lakeshore Corporate Centre,Electrical,We need 4 extra outlets for new workstations. Move-in is Dec 1.,P1,P1,P1,True,True,Planned electrical work with a month of lead time.,none,false
+WO-010,Maple Hollow Estate,Pest Control,Garbage room smells and there are flies everywhere.,P1,P1,P1,True,True,"Sanitation nuisance, no immediate hazard.",none,false
+WO-011,Lakeshore Corporate Centre,Fire & Life Safety,Fire alarm panel has shown a trouble light for two days.,P2,P2,P2,True,True,Fire panel fault left for two days could mean the system is impaired; compliance issue.,none,false
+WO-012,Lakeshore Corporate Centre,Painting & Drywall,Marker graffiti on the stairwell wall.,P1,P1,P1,True,True,Cosmetic.,none,false
+WO-013,Maple Hollow Estate,Roofing & Envelope,Cold draft around the balcony door.,P1,P1,P1,True,True,Comfort/energy issue only.,none,false
+WO-014,Lakeshore Corporate Centre,Roofing & Envelope,Window seal has failed on 3 windows. Condensation between the panes.,P1,P1,P1,True,True,Failed seals are an efficiency and appearance issue.,none,false
+WO-015,Brookside Village,Electrical,Burning smell from the living room outlet. The outlet is warm and has gone brown around the edges.,P2,P3,P3,False,True,"Warm, discoloured outlet with burning smell is an active fire hazard.",none,false
+WO-016,Maple Hollow Estate,Fire & Life Safety,Smoke detector chirps every minute. Probably the battery.,P2,P2,P1,False,False,Low-battery chirp; detector is still present.,none,false
+WO-017,Lakeshore Corporate Centre,Electrical,About half of the lights on P2 are out. Evening staff don't feel safe walking to their cars.,P2,P2,P2,True,True,Half the lights out in a parking level creates a safety and security risk for staff.,none,false
+WO-018,Brookside Village,Landscaping & Grounds,Lawn hasn't been cut in three weeks.,P1,P1,P1,True,True,Cosmetic grounds maintenance.,none,false
+WO-019,Maple Hollow Estate,Plumbing,No hot water since this morning. I have a toddler at home.,P2,P2,P2,True,True,Loss of hot water affecting a toddler; essential service.,Is the whole building affected?,false
+WO-020,Lakeshore Corporate Centre,HVAC,Server room AC alarm shows 31C with the door closed. Our equipment will start shutting down soon.,P2,P2,P2,True,True,"Rising server room temperature threatens tenant equipment shortly, but no safety risk to people.",none,true
+WO-021,Maple Hollow Estate,Pest Control,Seeing cockroaches in the kitchen at night. Several. Neighbour says they have them too.,P1,P1,P1,True,True,"Pest nuisance, shared with neighbour, no immediate harm.",none,false
+WO-022,Maple Hollow Estate,Carpentry,Stair handrail has pulled away from the wall a bit.,P1,P1,P1,True,True,Handrail is loose but intact; can be cordoned and fixed within 24 hours.,none,true
+WO-023,Maple Hollow Estate,Landscaping & Grounds,A fence panel fell down along the east boundary after the wind.,P2,P2,P1,False,False,"Fence down, no immediate risk reported.",none,false
+WO-024,Maple Hollow Estate,Electrical,Breaker keeps tripping when the microwave and kettle run together.,P2,P2,P1,False,False,Overload-type trip; breaker is doing its job.,none,false
+WO-025,Lakeshore Corporate Centre,Plumbing,Two of the four toilets are not flushing. Staff are going down to the 3rd floor and queueing.,P2,P2,P1,False,False,Half the washrooms are out but alternatives exist one floor down; fix within 24 hours.,none,false
+WO-026,Maple Hollow Estate,Locksmith & Access Control,Door doesn't close fully so anyone can walk in. The magnetic lock isn't holding.,P1,P1,P2,False,False,Residential building door not securing; security gap for all residents.,none,false
+WO-027,Brookside Village,Pest Control,Wasp nest under the front porch roof. Kids play there.,P1,P1,P2,False,False,Wasp nest where children play is an injury risk.,none,false
+WO-028,Maple Hollow Estate,HVAC,Bathroom exhaust fan makes a grinding sound and doesn't pull steam out.,P1,P1,P1,True,True,"Noisy fan, minor moisture concern.",none,false
+WO-029,Brookside Village,Painting & Drywall,Fist-sized hole in the hallway drywall from a door handle.,P1,P1,P1,True,True,Cosmetic damage.,none,false
+WO-030,Lakeshore Corporate Centre,Locksmith & Access Control,Parking gate arm is stuck in the up position. It won't close overnight.,P2,P2,P2,True,True,Gate cannot secure the parking overnight.,none,false
+WO-031,Maple Hollow Estate,Landscaping & Grounds,Sprinkler comes on at 2 am and floods the path.,P2,P2,P1,False,False,"Irrigation timing fault, nuisance only.",none,false
+WO-032,Maple Hollow Estate,Electrical,Doorbell does not work.,P1,P1,P1,True,True,Convenience item.,none,false
+WO-033,Brookside Village,Painting & Drywall,Multiple nail pops in the living room ceiling drywall.,P1,P1,P1,True,True,Cosmetic.,none,false
+WO-034,Lakeshore Corporate Centre,Pest Control,Rats seen near the garbage bins at the loading dock.,P1,P1,P1,True,True,Pest sighting outside the building; schedule control visit.,none,false
+WO-035,Lakeshore Corporate Centre,Carpentry,Boardroom table leg is loose and the table wobbles. Client meeting on Thursday.,P2,P2,P1,False,False,Loose leg is a nuisance with a few days of lead time.,none,false
+WO-036,Maple Hollow Estate,Landscaping & Grounds,Wet leaves are clogging the walkways and they are very slippery.,P2,P2,P1,False,False,"Slip nuisance, fixed by routine sweeping.",none,false
+WO-037,Lakeshore Corporate Centre,Roofing & Envelope,Standing water on the roof near the hatch. Drain looks blocked.,P1,P1,P1,True,True,"Ponding on roof, no leak reported yet.",Is there any interior leakage?,true
+WO-038,Brookside Village,Painting & Drywall,Paint is peeling on the bathroom ceiling above the shower and there are black spots.,P1,P1,P1,True,True,"Likely moisture/mould staining from poor ventilation, not an acute hazard.",none,false
+WO-039,Maple Hollow Estate,Fire & Life Safety,Fire extinguisher is missing from its cabinet in the corridor.,P2,P2,P1,False,False,Missing extinguisher is a compliance gap that can be replaced within 24 hours.,none,false
+WO-040,Brookside Village,Landscaping & Grounds,Neighbour's tree branches are touching my roof.,P1,P1,P1,True,True,"Tree trimming, no immediate damage.",none,false
+WO-041,Maple Hollow Estate,Locksmith & Access Control,Lost my fob for the building door. Please deactivate it and issue a new one.,P2,P2,P2,True,True,Lost fob is a security risk until it is deactivated.,none,false
+WO-042,Brookside Village,HVAC,Outdoor AC unit is making a loud rattling noise when it runs.,P1,P1,P1,True,True,Noise only.,none,false
+WO-043,Lakeshore Corporate Centre,Electrical,Three light fixtures are out in the corridor beside the stairwell. It is dark at night.,P1,P1,P2,False,False,Dark corridor beside a stairwell is a fall and security risk.,none,false
+WO-044,Lakeshore Corporate Centre,Locksmith & Access Control,Need the suite re-keyed after an employee left.,P1,P1,P1,True,True,Planned security upgrade.,none,false
+WO-045,Lakeshore Corporate Centre,Landscaping & Grounds,Planters are dead. Please replace for fall.,P1,P1,P1,True,True,Cosmetic.,none,false
+WO-046,Lakeshore Corporate Centre,HVAC,Thermostat screen is blank and we can't adjust the temperature.,P2,P2,P1,False,False,Comfort control issue.,none,false
+WO-047,Lakeshore Corporate Centre,Painting & Drywall,Scuff marks on walls after a furniture move. Touch up whenever convenient.,P1,P1,P1,True,True,"Cosmetic, explicitly not time-sensitive.",none,false
+WO-048,Brookside Village,Pest Control,Scratching noises in the attic at night. Might be a raccoon.,P1,P1,P1,True,True,"Wildlife in attic, no damage reported yet.",none,false
+WO-049,Brookside Village,Locksmith & Access Control,Keypad code for the visitor gate isn't working for my guests.,P2,P2,P1,False,False,Inconvenience for visitors.,none,false
+WO-050,Maple Hollow Estate,Fire & Life Safety,Hallway smoke alarm was removed during painting last week and never put back.,P3,P3,P2,False,False,Removed smoke alarm leaves the hallway without detection.,none,false
+WO-051,Brookside Village,Fire & Life Safety,Fire extinguisher tag shows it expired in 2023.,P3,P3,P1,False,False,"Compliance paperwork item, extinguisher still present.",none,false
+WO-052,Maple Hollow Estate,Plumbing,Shower head is loose and spraying sideways. Pressure is also low.,P1,P1,P1,True,True,Fixture annoyance.,none,false
+WO-053,Brookside Village,Carpentry,Kitchen cabinet door fell off its hinge.,P1,P1,P1,True,True,Minor repair.,none,false
+WO-054,Brookside Village,HVAC,I think the furnace filter has not been changed in over a year. Can someone swap it?,P1,P1,P1,True,True,Routine maintenance.,none,false
+WO-055,Maple Hollow Estate,Roofing & Envelope,Water comes in around the window frame during heavy rain and soaks the carpet.,P2,P2,P2,True,True,Active water ingress with soaked carpet will worsen with each rain.,none,false
+WO-056,Maple Hollow Estate,Carpentry,Balcony railing wobbles when leaned on. One post feels loose at the base.,P2,P2,P2,True,True,Loose balcony railing is a serious fall hazard.,none,true
+WO-057,Lakeshore Corporate Centre,Pest Control,Found mouse droppings in the kitchenette cupboards.,P2,P2,P1,False,False,"Pest control visit needed, no immediate harm.",none,false
+WO-058,Maple Hollow Estate,Carpentry,Closet sliding door came off its track.,P1,P1,P1,True,True,Minor repair.,none,false
+WO-059,Brookside Village,Pest Control,"Ants in the kitchen every morning, trailing in from the window.",P1,P1,P1,True,True,Minor nuisance.,none,false
+WO-060,Brookside Village,Plumbing,Outdoor tap leaks at the base whenever a hose is connected.,P1,P1,P1,True,True,"Minor leak, outdoors.",none,false
+WO-061,Maple Hollow Estate,Pest Control,Waking up with bites on my arms and I found small dark spots along the mattress seam.,P1,P1,P1,True,True,Suspected bed bugs need a treatment visit but not within 12 hours.,Has a pest professional confirmed the cause?,true
+WO-062,Lakeshore Corporate Centre,Landscaping & Grounds,Pothole about 30 cm wide near the visitor entrance.,P2,P2,P1,False,False,Surface defect; schedule repair.,none,false
+WO-063,Maple Hollow Estate,HVAC,Furnace will not start. Thermostat says heat is on but only cold air comes out. It is 2 degrees outside and my elderly mother lives with me.,P2,P2,P2,True,True,No heat in cold weather with an elderly occupant needs same-day attention.,none,true
+WO-064,Lakeshore Corporate Centre,Fire & Life Safety,Exit sign above the east stairwell door is not lit.,P1,P1,P2,False,False,Unlit exit sign is a life-safety compliance deficiency.,none,false
+WO-065,Brookside Village,Electrical,No power at the kitchen outlets only. Rest of the house is fine. I checked the breaker panel.,P1,P1,P1,True,True,Partial loss of circuits; likely a tripped GFCI.,Has the GFCI been reset?,false
+WO-066,Lakeshore Corporate Centre,Carpentry,Laminate is peeling at the edge of the reception desk.,P1,P1,P1,True,True,Cosmetic.,none,false
+WO-067,Lakeshore Corporate Centre,Fire & Life Safety,Stairwell fire door is propped open with a wedge. Smokers are doing it.,P2,P2,P2,True,True,Defeated fire door compromises compartmentation.,none,false
+WO-068,Maple Hollow Estate,Roofing & Envelope,Several shingles blew off last night. Found them in the courtyard.,P1,P1,P2,False,False,Roof covering lost; exposed to the next rain.,none,false
+WO-069,Brookside Village,Roofing & Envelope,Water stain on the top floor bedroom ceiling after yesterday's rain. It is getting bigger.,P1,P1,P2,False,False,Growing ceiling stain means an active roof leak.,none,false
+WO-070,Maple Hollow Estate,Plumbing,Water is coming through my ceiling from the unit above. Dripping fast into a bucket and the light fixture is filling with water. Please come NOW.,P2,P3,P3,False,True,Water pouring into a light fixture is shock and fire risk and active flooding.,none,false
+WO-071,Brookside Village,Roofing & Envelope,A siding panel is cracked beside the garage.,P1,P1,P1,True,True,Cosmetic envelope damage.,none,false
+WO-072,Maple Hollow Estate,Painting & Drywall,Paint is chipped beside the elevator.,P1,P1,P1,True,True,Cosmetic.,none,false
+WO-073,Lakeshore Corporate Centre,Roofing & Envelope,Weatherstripping on the loading dock door is torn and wind blows in.,P1,P1,P1,True,True,Draft and energy loss.,none,false
+WO-074,Brookside Village,Fire & Life Safety,CO detector went off briefly this morning near the furnace. It stopped on its own.,P1,P3,P3,False,True,"A CO alarm must be treated as real until proven otherwise, even if it stopped.","Any symptoms in occupants, and is the furnace running?",true
+WO-075,Lakeshore Corporate Centre,Fire & Life Safety,Sprinkler head is dripping slightly. One drip every few seconds.,P1,P1,P2,False,False,Sprinkler drip could mean a failing head and damage to adjacent equipment.,none,true
+WO-076,Lakeshore Corporate Centre,Plumbing,Kitchenette sink is draining slowly. Probably coffee grounds.,P1,P1,P1,True,True,"Slow drain, minor.",none,false
+WO-077,Brookside Village,Carpentry,"A back deck board broke and my son's foot went through it. He's okay, just scraped. Other boards look soft too.",P2,P2,P2,True,True,Injury already occurred and other boards may fail.,"Which boards are soft, and has the deck been cordoned off?",false
+WO-078,Maple Hollow Estate,HVAC,Faint rotten egg smell near the furnace closet. Comes and goes.,P1,P3,P3,False,True,Possible gas leak must be treated as an emergency until ruled out.,none,true
+WO-079,Lakeshore Corporate Centre,HVAC,"East side is freezing, people are wearing coats. Been like this since Monday.",P2,P2,P1,False,False,"Comfort issue, though lasting several days.",none,false
+WO-080,Lakeshore Corporate Centre,Painting & Drywall,Dark patches on the wall behind the pantry fridge. Might be mould.,P2,P2,P1,False,False,Possible mould behind fridge; needs inspection but no acute hazard.,Is there a leak source nearby?,true
+WO-081,Brookside Village,Plumbing,Basement floor drain is gurgling and there is a bad sewage smell after the neighbour ran laundry.,P2,P2,P2,True,True,Possible sewer backup with odour is a sanitation hazard.,none,true
+WO-082,Brookside Village,Roofing & Envelope,Eavestrough overflows at the front corner and pours onto the walkway.,P1,P1,P1,True,True,"Overflowing gutter, nuisance.",none,false
+WO-083,Maple Hollow Estate,Carpentry,Front door doesn't latch properly. I have to lift the handle to lock it.,P1,P1,P1,True,True,"Door still locks, only awkward.",none,true
+WO-084,Brookside Village,Locksmith & Access Control,Key broke off in the mailbox lock.,P1,P1,P1,True,True,Minor lock issue.,none,false
+WO-085,Lakeshore Corporate Centre,Pest Control,A few fruit flies around our office plants.,P1,P1,P1,True,True,Trivial.,none,false
+WO-086,Maple Hollow Estate,Landscaping & Grounds,Large tree branch fell across the visitor parking and blocks four spots.,P2,P2,P1,False,False,"Debris removal, parking inconvenience.",none,false
+WO-087,Lakeshore Corporate Centre,Locksmith & Access Control,Lock on the telecom closet is jammed. Our ISP technician can't get in. Appointment is tomorrow at 9 am.,P2,P2,P2,True,True,Time-bound access issue with a firm appointment tomorrow morning.,none,false
+WO-088,Lakeshore Corporate Centre,HVAC,Rooftop unit 3 belt is squealing loudly. Tenants on floor 9 are complaining about noise.,P1,P1,P1,True,True,Noise complaint only.,none,false
+WO-089,Brookside Village,Locksmith & Access Control,Locked out with my keys inside. It's 9 pm and I have a baby.,P3,P3,P2,False,False,Lockout at night with a baby; urgent but not life-threatening.,Is the baby with you and safe?,true
+WO-090,Lakeshore Corporate Centre,Electrical,Outlet cover is cracked and the wires are visible behind it.,P2,P2,P2,True,True,Exposed wiring in a public lobby is a shock hazard.,none,true
+WO-091,Lakeshore Corporate Centre,Landscaping & Grounds,Paving stone is lifted at the main entrance. A visitor almost fell today.,P2,P2,P2,True,True,Trip hazard that has already nearly caused an injury.,none,false
+WO-092,Maple Hollow Estate,Painting & Drywall,Bedroom ceiling has a crack about a metre long and bits of plaster are falling.,P2,P2,P2,True,True,Cracking ceiling with falling plaster may indicate structural or moisture failure.,Is there water above?,true
+WO-093,Brookside Village,Carpentry,Third and fifth stair steps squeak loudly.,P1,P1,P1,True,True,Noise only.,none,false
+WO-094,Brookside Village,Roofing & Envelope,Gap in the soffit near the roof edge. Birds are going in and out.,P1,P1,P1,True,True,Envelope gap; pest entry risk.,none,false
+WO-095,Brookside Village,HVAC,Heat only works on the main floor. Upstairs bedrooms are cold.,P2,P2,P1,False,False,Partial heating loss; comfort issue.,none,false
+WO-096,Maple Hollow Estate,Painting & Drywall,Whole unit needs repainting before the new tenant moves in on the 15th.,P1,P1,P1,True,True,Planned turnover work.,none,false
+WO-097,Maple Hollow Estate,Pest Control,Heard mice in the walls last week and caught one in the pantry.,P2,P2,P1,False,False,"Pest issue, no immediate harm.",none,false
+WO-098,Lakeshore Corporate Centre,Painting & Drywall,Water stain is spreading on a ceiling tile near the washroom.,P1,P1,P2,False,False,Spreading stain suggests an active leak that will damage the ceiling.,What is the source above?,true
+WO-099,Maple Hollow Estate,Electrical,Pot lights in the lobby are flickering and a few are buzzing.,P1,P1,P1,True,True,Lighting nuisance.,none,false
+WO-100,Maple Hollow Estate,Locksmith & Access Control,"Deadbolt is stiff and hard to turn, but it still works.",P1,P1,P1,True,True,Stiff but working lock.,none,false

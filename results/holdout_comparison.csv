@@ -1,0 +1,31 @@
+request_id,trade,request_text,manual,ai_v2,ai_v3,v2_match,v3_match
+HO-01,Fire & Life Safety,Fire extinguisher cabinet is locked and nobody has the key.,P3,P1,P1,False,False
+HO-02,Electrical,Half of my apartment has no power. Neighbours still have theirs and my breaker is not tripped.,P2,P2,P2,True,True
+HO-03,Fire & Life Safety,The fire extinguisher was used last week and nobody replaced it. The cabinet is empty.,P3,P1,P2,False,False
+HO-04,Fire & Life Safety,Hallway smoke alarm went off briefly while I was cooking and now it won't beep at all when I test it.,P3,P2,P2,False,False
+HO-05,Locksmith & Access Control,The lock on the garage side door sticks.,P1,P1,P1,True,True
+HO-06,Carpentry,The porch step has rotted and my elderly father nearly fell through it.,P2,P2,P2,True,True
+HO-07,Plumbing,Kitchen sink is backing up into the dishwasher and there is water on the floor.,P2,P2,P2,True,True
+HO-08,Pest Control,Staff found a wasp nest on the outside window ledge.,P1,P1,P1,True,True
+HO-09,Landscaping & Grounds,An ice patch forms at the ramp entrance every morning.,P2,P2,P2,True,True
+HO-10,Fire & Life Safety,"Smoke alarm in the bedroom was beeping, and now it has gone silent. I think someone took the battery out.",P2,P2,P2,True,True
+HO-11,Electrical,The hallway light switch is hot to the touch.,P3,P3,P3,True,True
+HO-12,Plumbing,Toilet is overflowing and water is spreading into the hallway.,P2,P2,P2,True,True
+HO-13,Electrical,A desk lamp sparked and smoked when plugged into the wall. The outlet is blackened.,P3,P3,P3,True,True
+HO-14,Fire & Life Safety,The fire alarm keeps going off around 2 am every night. Residents are exhausted.,P3,P2,P2,False,False
+HO-15,Pest Control,I am seeing bed bugs crawling on the sofa.,P1,P1,P1,True,True
+HO-16,Fire & Life Safety,CO alarm shows error code E3 and will not reset.,P3,P2,P2,False,False
+HO-17,Locksmith & Access Control,Our suite door won't lock and we leave laptops in there overnight.,P2,P2,P2,True,True
+HO-18,Painting & Drywall,The front door frame needs a touch-up.,P1,P1,P1,True,True
+HO-19,Fire & Life Safety,"There is no smoke alarm in the corridor outside unit 41, only the empty base on the ceiling.",P3,P2,P3,False,True
+HO-20,HVAC,Boiler pressure gauge is reading very high and the relief valve is hissing.,P3,P3,P3,True,True
+HO-21,HVAC,No heat at all. The house is 14 degrees and my elderly mother is staying with us.,P2,P2,P2,True,True
+HO-22,Fire & Life Safety,Our smoke alarm chirps every few minutes. We have a newborn at home.,P3,P2,P2,False,False
+HO-23,Roofing & Envelope,Water drips from the ceiling light in the upstairs bathroom whenever it rains.,P2,P3,P3,False,False
+HO-24,Pest Control,Spotted a few ants near the windowsill.,P1,P1,P1,True,True
+HO-25,Carpentry,Door closer on the suite door slams shut.,P1,P1,P1,True,True
+HO-26,Landscaping & Grounds,A dead tree is leaning over the playground after the high winds.,P1,P2,P2,False,False
+HO-27,Plumbing,The water fountain tastes of metal.,P2,P1,P1,False,False
+HO-28,HVAC,Air feels stuffy and warm in the meeting rooms.,P1,P1,P1,True,True
+HO-29,Fire & Life Safety,Fire extinguisher gauge is in the red.,P3,P1,P2,False,False
+HO-30,Roofing & Envelope,A ceiling tile in the boardroom is wet and sagging.,P2,P2,P2,True,True

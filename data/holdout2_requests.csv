@@ -1,0 +1,31 @@
+request_id,submitted_at,property,property_type,location,trade,requester_role,channel,request_text
+T2-01,2026-11-02 07:36,Lakeshore Corporate Centre,Office,"Floor 3, kitchenette",Fire & Life Safety,Tenant,Email,The cover on the fire alarm pull station is cracked.
+T2-02,2026-11-02 08:11,Lakeshore Corporate Centre,Office,"Floor 1, Suite 110",Carpentry,Tenant,Tenant portal,A ground floor window in our suite won't lock.
+T2-03,2026-11-02 12:18,Lakeshore Corporate Centre,Office,Loading dock,Landscaping & Grounds,Dock supervisor,Phone,The lids are missing from the garbage bins at the loading dock.
+T2-04,2026-11-02 13:59,Maple Hollow Estate,Residential,"Unit 11, Block D",Locksmith & Access Control,Resident,Resident portal,The front door lock is jammed and I can't get out of my apartment.
+T2-05,2026-11-02 14:37,Maple Hollow Estate,Residential,Block D parkade,Fire & Life Safety,Resident,Email,A sprinkler pipe in the parkade is dripping onto a parked car.
+T2-06,2026-11-02 18:18,Maple Hollow Estate,Residential,"Unit 2, Block D",HVAC,Resident,Resident portal,The furnace filter light is on.
+T2-07,2026-11-03 07:53,Lakeshore Corporate Centre,Office,"Floor 2, corridor",Painting & Drywall,Cleaner,Walk-in,Water is running down the corridor wall and the floor is wet.
+T2-08,2026-11-03 08:32,Lakeshore Corporate Centre,Office,"Floor 2, stairwell door",Fire & Life Safety,Security guard,Tenant portal,The fire door to the stairwell does not close by itself.
+T2-09,2026-11-03 11:12,Lakeshore Corporate Centre,Office,"Floor 4, server room",Locksmith & Access Control,Tenant IT lead,Tenant portal,The keypad on the server room door isn't working.
+T2-10,2026-11-03 15:45,Brookside Village,Residential,30 Aspen Court,Carpentry,Resident,Email,The bathroom door won't close properly.
+T2-11,2026-11-03 17:14,Brookside Village,Residential,18 Cedar Court,Plumbing,Resident,Resident portal,The washing machine hose burst and water is running down the basement stairs.
+T2-12,2026-11-03 20:43,Lakeshore Corporate Centre,Office,"Floor 7, corridor",Fire & Life Safety,Tenant,Walk-in,A fire extinguisher is blocked by stacked boxes in the corridor.
+T2-13,2026-11-05 08:08,Lakeshore Corporate Centre,Office,Floor 3 balcony,Pest Control,Tenant,Tenant portal,Pigeons are nesting on the balcony.
+T2-14,2026-11-05 08:14,Lakeshore Corporate Centre,Office,Atrium,Roofing & Envelope,Building operator,Email,The atrium skylight leaks when it rains.
+T2-15,2026-11-05 08:50,Maple Hollow Estate,Residential,"Unit 8, Block C",Pest Control,Resident,Email,A mouse ran across the kitchen floor.
+T2-16,2026-11-05 12:34,Lakeshore Corporate Centre,Office,"Floor 2, break room",Plumbing,Tenant,Walk-in,The water cooler is leaking a little onto the floor.
+T2-17,2026-11-05 15:40,Maple Hollow Estate,Residential,"Unit 9, Block C",Fire & Life Safety,Resident,Phone,The smoke alarm is missing from the living room ceiling since the ceiling repair.
+T2-18,2026-11-05 16:24,Lakeshore Corporate Centre,Office,"Floor 5, hallway",Electrical,Tenant,Tenant portal,Two ceiling lights in the hallway flicker.
+T2-19,2026-11-05 16:33,Lakeshore Corporate Centre,Office,"Floor 4, stairwell",Fire & Life Safety,Security guard,Walk-in,Emergency lighting in the stairwell did not come on during yesterday's power flicker.
+T2-20,2026-11-05 18:10,Brookside Village,Residential,12 Birch Lane,Electrical,Resident,Email,Smell of burning plastic from the electrical panel in the basement.
+T2-21,2026-11-05 19:05,Maple Hollow Estate,Residential,Block A,Roofing & Envelope,Groundskeeper,Walk-in,A gutter has pulled away from the building.
+T2-22,2026-11-06 07:15,Maple Hollow Estate,Residential,"Unit 14, Block A",Fire & Life Safety,Resident,Resident portal,The exit sign in our stairwell flickers on and off.
+T2-23,2026-11-06 10:20,Maple Hollow Estate,Residential,Block B,Plumbing,Resident,Phone,There is no water in the whole building.
+T2-24,2026-11-06 13:45,Brookside Village,Residential,5 Elm Street,Fire & Life Safety,Resident,Walk-in,"The smoke alarm went off while we cooked toast, so we pulled it off the wall. It is on the table now."
+T2-25,2026-11-07 07:00,Brookside Village,Residential,44 Cherry Lane,Painting & Drywall,Resident,Phone,The ceiling paint is bubbling above the bathroom.
+T2-26,2026-11-07 11:20,Maple Hollow Estate,Residential,"Unit 16, Block B",Electrical,Resident,Email,The dryer outlet has melted.
+T2-27,2026-11-07 11:36,Brookside Village,Residential,23 Poplar Drive,Landscaping & Grounds,Resident,Email,A tree branch is resting on the power line to our house.
+T2-28,2026-11-07 12:01,Lakeshore Corporate Centre,Office,"Floor 8, open area",HVAC,Tenant admin,Walk-in,"The office is 29 degrees, the AC isn't working and staff are struggling."
+T2-29,2026-11-07 17:28,Brookside Village,Residential,36 Pine Ridge,Fire & Life Safety,Resident,Phone,Our CO alarm is chirping for a low battery. We have a gas furnace.
+T2-30,2026-11-07 19:36,Lakeshore Corporate Centre,Office,"Floor 6, alarm panel",Fire & Life Safety,Building operator,Email,The fire alarm panel beeps every few minutes and shows ground fault.

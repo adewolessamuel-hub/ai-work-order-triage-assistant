@@ -1,0 +1,31 @@
+request_id,submitted_at,property,property_type,location,trade,requester_role,channel,request_text
+HO-01,2026-11-01 08:28,Lakeshore Corporate Centre,Office,"Floor 9, stairwell",Fire & Life Safety,Security guard,Walk-in,Fire extinguisher cabinet is locked and nobody has the key.
+HO-02,2026-11-01 10:46,Maple Hollow Estate,Residential,"Unit 18, Block C",Electrical,Resident,Resident portal,Half of my apartment has no power. Neighbours still have theirs and my breaker is not tripped.
+HO-03,2026-11-01 16:24,Lakeshore Corporate Centre,Office,Ground floor lobby,Fire & Life Safety,Receptionist,Walk-in,The fire extinguisher was used last week and nobody replaced it. The cabinet is empty.
+HO-04,2026-11-01 16:39,Maple Hollow Estate,Residential,"Unit 3, Block A",Fire & Life Safety,Resident,Resident portal,Hallway smoke alarm went off briefly while I was cooking and now it won't beep at all when I test it.
+HO-05,2026-11-01 16:48,Brookside Village,Residential,11 Spruce Lane,Locksmith & Access Control,Resident,Email,The lock on the garage side door sticks.
+HO-06,2026-11-01 16:55,Brookside Village,Residential,40 Maple Grove,Carpentry,Resident,Phone,The porch step has rotted and my elderly father nearly fell through it.
+HO-07,2026-11-02 17:45,Brookside Village,Residential,14 Cedar Court,Plumbing,Resident,Resident portal,Kitchen sink is backing up into the dishwasher and there is water on the floor.
+HO-08,2026-11-02 18:55,Lakeshore Corporate Centre,Office,Floor 8 window ledge,Pest Control,Tenant,Email,Staff found a wasp nest on the outside window ledge.
+HO-09,2026-11-03 08:39,Lakeshore Corporate Centre,Office,Parking P1 ramp,Landscaping & Grounds,Security guard,Tenant portal,An ice patch forms at the ramp entrance every morning.
+HO-10,2026-11-03 09:34,Maple Hollow Estate,Residential,"Unit 12, Block B",Fire & Life Safety,Resident,Walk-in,"Smoke alarm in the bedroom was beeping, and now it has gone silent. I think someone took the battery out."
+HO-11,2026-11-03 09:35,Maple Hollow Estate,Residential,"Unit 5, Block A",Electrical,Resident,Walk-in,The hallway light switch is hot to the touch.
+HO-12,2026-11-03 12:06,Maple Hollow Estate,Residential,"Unit 7, Block A",Plumbing,Resident,Phone,Toilet is overflowing and water is spreading into the hallway.
+HO-13,2026-11-03 14:56,Lakeshore Corporate Centre,Office,"Floor 4, open area",Electrical,Tenant,Walk-in,A desk lamp sparked and smoked when plugged into the wall. The outlet is blackened.
+HO-14,2026-11-03 18:51,Maple Hollow Estate,Residential,Block D,Fire & Life Safety,Resident,Email,The fire alarm keeps going off around 2 am every night. Residents are exhausted.
+HO-15,2026-11-04 07:40,Brookside Village,Residential,17 Willow Crescent,Pest Control,Resident,Resident portal,I am seeing bed bugs crawling on the sofa.
+HO-16,2026-11-04 08:11,Brookside Village,Residential,9 Aspen Court,Fire & Life Safety,Resident,Phone,CO alarm shows error code E3 and will not reset.
+HO-17,2026-11-04 09:27,Lakeshore Corporate Centre,Office,"Floor 5, Suite 510",Locksmith & Access Control,Tenant,Tenant portal,Our suite door won't lock and we leave laptops in there overnight.
+HO-18,2026-11-04 18:36,Brookside Village,Residential,6 Oakridge Avenue,Painting & Drywall,Resident,Walk-in,The front door frame needs a touch-up.
+HO-19,2026-11-05 07:59,Maple Hollow Estate,Residential,"Block A, 4th floor corridor",Fire & Life Safety,Resident,Phone,"There is no smoke alarm in the corridor outside unit 41, only the empty base on the ceiling."
+HO-20,2026-11-05 08:01,Maple Hollow Estate,Residential,Block B boiler room,HVAC,Groundskeeper,Phone,Boiler pressure gauge is reading very high and the relief valve is hissing.
+HO-21,2026-11-05 08:14,Brookside Village,Residential,28 Beech Street,HVAC,Resident,Resident portal,No heat at all. The house is 14 degrees and my elderly mother is staying with us.
+HO-22,2026-11-05 08:36,Brookside Village,Residential,22 Poplar Drive,Fire & Life Safety,Resident,Email,Our smoke alarm chirps every few minutes. We have a newborn at home.
+HO-23,2026-11-05 09:16,Brookside Village,Residential,31 Birch Lane,Roofing & Envelope,Resident,Email,Water drips from the ceiling light in the upstairs bathroom whenever it rains.
+HO-24,2026-11-05 12:15,Maple Hollow Estate,Residential,"Unit 20, Block D",Pest Control,Resident,Phone,Spotted a few ants near the windowsill.
+HO-25,2026-11-05 14:08,Lakeshore Corporate Centre,Office,"Floor 3, Suite 305",Carpentry,Tenant,Email,Door closer on the suite door slams shut.
+HO-26,2026-11-05 15:26,Maple Hollow Estate,Residential,Courtyard playground,Landscaping & Grounds,Resident,Email,A dead tree is leaning over the playground after the high winds.
+HO-27,2026-11-05 16:46,Lakeshore Corporate Centre,Office,"Floor 1, water fountain",Plumbing,Tenant,Phone,The water fountain tastes of metal.
+HO-28,2026-11-05 16:59,Lakeshore Corporate Centre,Office,"Floor 2, meeting rooms",HVAC,Tenant admin,Walk-in,Air feels stuffy and warm in the meeting rooms.
+HO-29,2026-11-06 07:49,Lakeshore Corporate Centre,Office,"Floor 3, kitchenette",Fire & Life Safety,Tenant,Tenant portal,Fire extinguisher gauge is in the red.
+HO-30,2026-11-06 14:39,Lakeshore Corporate Centre,Office,"Floor 6, boardroom",Roofing & Envelope,Tenant admin,Phone,A ceiling tile in the boardroom is wet and sagging.

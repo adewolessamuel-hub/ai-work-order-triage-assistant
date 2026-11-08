@@ -1,0 +1,31 @@
+request_id,trade,request_text,manual,ai_v2,ai_v4,v2_match,v4_match
+T2-01,Fire & Life Safety,The cover on the fire alarm pull station is cracked.,P3,P1,P3,False,True
+T2-02,Carpentry,A ground floor window in our suite won't lock.,P1,P2,P2,False,False
+T2-03,Landscaping & Grounds,The lids are missing from the garbage bins at the loading dock.,P1,P1,P1,True,True
+T2-04,Locksmith & Access Control,The front door lock is jammed and I can't get out of my apartment.,P3,P2,P2,False,False
+T2-05,Fire & Life Safety,A sprinkler pipe in the parkade is dripping onto a parked car.,P2,P2,P3,True,False
+T2-06,HVAC,The furnace filter light is on.,P2,P1,P1,False,False
+T2-07,Painting & Drywall,Water is running down the corridor wall and the floor is wet.,P2,P2,P2,True,True
+T2-08,Fire & Life Safety,The fire door to the stairwell does not close by itself.,P3,P2,P3,False,True
+T2-09,Locksmith & Access Control,The keypad on the server room door isn't working.,P2,P1,P1,False,False
+T2-10,Carpentry,The bathroom door won't close properly.,P1,P1,P1,True,True
+T2-11,Plumbing,The washing machine hose burst and water is running down the basement stairs.,P2,P2,P2,True,True
+T2-12,Fire & Life Safety,A fire extinguisher is blocked by stacked boxes in the corridor.,P3,P1,P3,False,True
+T2-13,Pest Control,Pigeons are nesting on the balcony.,P1,P1,P1,True,True
+T2-14,Roofing & Envelope,The atrium skylight leaks when it rains.,P1,P2,P2,False,False
+T2-15,Pest Control,A mouse ran across the kitchen floor.,P1,P1,P1,True,True
+T2-16,Plumbing,The water cooler is leaking a little onto the floor.,P1,P1,P1,True,True
+T2-17,Fire & Life Safety,The smoke alarm is missing from the living room ceiling since the ceiling repair.,P3,P2,P3,False,True
+T2-18,Electrical,Two ceiling lights in the hallway flicker.,P1,P1,P1,True,True
+T2-19,Fire & Life Safety,Emergency lighting in the stairwell did not come on during yesterday's power flicker.,P3,P2,P3,False,True
+T2-20,Electrical,Smell of burning plastic from the electrical panel in the basement.,P3,P3,P3,True,True
+T2-21,Roofing & Envelope,A gutter has pulled away from the building.,P1,P1,P1,True,True
+T2-22,Fire & Life Safety,The exit sign in our stairwell flickers on and off.,P3,P1,P3,False,True
+T2-23,Plumbing,There is no water in the whole building.,P3,P2,P2,False,False
+T2-24,Fire & Life Safety,"The smoke alarm went off while we cooked toast, so we pulled it off the wall. It is on the table now.",P3,P2,P3,False,True
+T2-25,Painting & Drywall,The ceiling paint is bubbling above the bathroom.,P1,P1,P1,True,True
+T2-26,Electrical,The dryer outlet has melted.,P3,P3,P3,True,True
+T2-27,Landscaping & Grounds,A tree branch is resting on the power line to our house.,P3,P3,P3,True,True
+T2-28,HVAC,"The office is 29 degrees, the AC isn't working and staff are struggling.",P3,P2,P2,False,False
+T2-29,Fire & Life Safety,Our CO alarm is chirping for a low battery. We have a gas furnace.,P3,P2,P3,False,True
+T2-30,Fire & Life Safety,The fire alarm panel beeps every few minutes and shows ground fault.,P3,P2,P3,False,True
